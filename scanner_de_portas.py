@@ -7,8 +7,8 @@ import requests
 from datetime import datetime
 
 # Configurações do Telegram
-TOKEN_TELEGRAM = "7766039404:AAGyBj-A7GhtEA8LfTUXx7o1NkovhUu9C1E"
-CHAT_ID = "1904271548"
+TOKEN_TELEGRAM = ""
+CHAT_ID = ""
 URL_BASE = f"https://api.telegram.org/bot{TOKEN_TELEGRAM}"
 
 # Logging
